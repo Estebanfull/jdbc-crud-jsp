@@ -1,0 +1,5 @@
+com\mycompany\pryectojsp\JakartaRestConfiguration.class
+com\mycompany\pryectojsp\resources\JakartaEE8Resource.class
+service\ProveedorService.class
+controller\ProveedorController.class
+model\Proveedor.class
