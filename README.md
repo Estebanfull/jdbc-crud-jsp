@@ -54,7 +54,7 @@ proveedorList.jsp: Vista JSP que muestra la lista de proveedores y proporciona u
 
 Cómo Usar
 Clona este repositorio en tu máquina local:
-git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/Estebanfull/jdbc-crud-jsp.git)
+git clone (https://github.com/Estebanfull/jdbc-crud-jsp.git)
 Abre el proyecto en tu IDE Java preferido.
 Configura la conexión a tu base de datos en el controlador ProveedorController.java según tus necesidades.
 Ejecuta el proyecto en un servidor web compatible con Java (por ejemplo, Apache Tomcat).
